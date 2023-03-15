@@ -4,7 +4,7 @@
 - 🤔 I’m currently learning Docker
 - 🤝 I’m looking to collaborate on ML prpjects
 - ⚡ Fan fact: I love reading and hiking
-- 📈 My [![Tableau](https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png)](https://public.tableau.com/app/profile/migaripov) Dashboards
+- 📈 My [![Tableau]](https://public.tableau.com/app/profile/migaripov) Dashboards
 
 
 <h3 align="left">Connect with me:</h3>

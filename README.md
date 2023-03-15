@@ -1,13 +1,11 @@
-### Hi there 👋
+### Hello World, I'm Mansur 👋
 
-<!--
-**migaripov/migaripov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my Statistics skills
+- 🤔 I’m currently learning Docker
+- 🤝 I’m looking to collaborate on ML prpjects
+- ⚡ Fan fact: I love reading and hiking
+- 📈 My [![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)]([https://www.linkedin.com/in/zluvsand/](https://public.tableau.com/app/profile/migaripov)) Dashboards
 
-- 🔭 I’m currently working on my 
-- 🌱 I’m currently learning Docker
-- 👯 I’m looking to collaborate on ML prpjects
-- My 
-- 📫 How to reach me: 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
